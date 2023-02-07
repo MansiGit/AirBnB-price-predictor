@@ -18,13 +18,14 @@
   * Compare the model performances by RMSE, MAE and R2 Score
 
 ## Outcomes
-* Price is most positively correlated with host listings count and availabilty in the year. 
+* Price is most positively correlated with host listings count and availabilty in the year (numerical values). 
+* Price is most positively correlated with Room types and city (nominal values). 
 * So, more listing a host has, the price is higher and if the place is more available, you can charge more!
 
 <img src="https://user-images.githubusercontent.com/31558571/217119991-a0806cdd-fd58-42c7-ad50-000d6303911d.png"  width="60%" height="30%">
 <img src="https://user-images.githubusercontent.com/31558571/217120001-250b52ab-044a-426f-bfbc-3bbf1d8e84bb.png"  width="60%" height="30%">
-Looks like renting an entire appartment is more attractive over other options!
-<img src="https://user-images.githubusercontent.com/31558571/217120192-3d859732-845c-4ee2-a5bb-00c287b4544e.png"  width="60%" height="30%">
+Looks like renting a private room is more attractive over other options!
+<img src="https://user-images.githubusercontent.com/31558571/217252277-3118cc3e-ec41-4901-834d-d3e6afa392e1.png"  width="60%" height="30%">
 
 ## Conclusion
 
